@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $("#text").append("\nthis is so freaking cool.");
+    $("#text").append("\nThis is so freaking cool.");
 });
